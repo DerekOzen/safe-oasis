@@ -1,10 +1,10 @@
 {
-  "name": "Your Business",
-  "tagline": "Quality you can trust",
-  "phone": "",
-  "email": "",
-  "areas": "",
+  "name": "Safe Oasis",
+  "tagline": "Therapy",
+  "phone": "0406 119 010",
+  "email": "info@safeoasis.com.au",
+  "areas": "Sydney",
   "hoursWeek": "Mon–Fri 9am–5pm",
   "hoursSat": "Closed",
-  "siteUrl": ""
+  "siteUrl": "https://safe-oasis.pages.dev"
 }
