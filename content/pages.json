@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Safe Oasis — Mental Health Support in English & Turkish · Telehealth NSW",
+    "seoDescription": "Trauma-informed, culturally responsive mental health support and psychosocial reporting by an AASW Accredited Mental Health Social Worker. Telehealth across NSW, in English and Turkish. Medicare, SIRA, CTP, Victims Services, WDO, NDIS and private pathways.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-03T10:13:54.130Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-03T10:13:54.130Z",
+    "createdBy": "derek"
+  }
+]
