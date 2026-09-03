@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Safe Oasis — Mental Health Support in English & Turkish · Telehealth NSW",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-03T21:36:48.304Z",
+    "status": "published",
+    "updatedAt": "2026-09-03T21:36:58.626Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-03T21:36:48.304Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
