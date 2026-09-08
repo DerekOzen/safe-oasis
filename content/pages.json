@@ -42,11 +42,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-4",
@@ -58,11 +58,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-5",
@@ -74,11 +74,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-6",
@@ -106,11 +106,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-8",
@@ -122,11 +122,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-9",
@@ -138,11 +138,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-10",
@@ -154,11 +154,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-11",
@@ -170,11 +170,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-12",
@@ -186,11 +186,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-13",
@@ -202,11 +202,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-14",
@@ -218,11 +218,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-15",
@@ -234,11 +234,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-16",
@@ -250,11 +250,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-17",
@@ -266,11 +266,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-18",
@@ -282,11 +282,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-19",
@@ -298,11 +298,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-20",
@@ -314,11 +314,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-21",
@@ -330,11 +330,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-22",
@@ -346,11 +346,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-23",
@@ -362,11 +362,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-24",
@@ -394,11 +394,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-26",
@@ -410,11 +410,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-27",
@@ -426,11 +426,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-28",
@@ -442,11 +442,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-29",
@@ -458,10 +458,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-03T21:37:32.450Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-08T03:50:09.680Z",
+    "updatedBy": "joshua"
   }
 ]
