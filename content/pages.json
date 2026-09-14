@@ -464,5 +464,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-08T03:50:09.680Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-30",
+    "path": "/privacy",
+    "type": "page",
+    "title": "Privacy Policy",
+    "seoTitle": "Privacy Policy · Safe Oasis — Mental Health Support NSW",
+    "seoDescription": "How Safe Oasis collects, stores, uses and protects your information, who may see it, how long it is kept, and how to access, correct or complain. NSW telehealth.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:09:28.131Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-14T03:09:28.131Z",
+    "createdBy": "joshua"
   }
 ]
