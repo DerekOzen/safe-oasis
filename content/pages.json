@@ -497,5 +497,37 @@
     "updatedBy": "joshua",
     "createdAt": "2026-09-14T04:08:53.702Z",
     "createdBy": "joshua"
+  },
+  {
+    "id": "pg-32",
+    "path": "/about1",
+    "type": "page",
+    "title": "About Safe Oasis — Accredited Mental Health Social Worker (AASW)",
+    "seoTitle": "About Safe Oasis — Accredited Mental Health Social Worker (AASW)",
+    "seoDescription": "Trauma-informed, culturally responsive and strengths-based mental health support led by an AASW Accredited Mental Health Social Worker. English and Turkish, telehealth across NSW.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-14T05:06:44.129Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-14T05:06:44.129Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-33",
+    "path": "/turkce1",
+    "type": "page",
+    "title": "Türkçe Ruh Sağlığı Desteği — İngilizce & Türkçe | Safe Oasis",
+    "seoTitle": "Türkçe Ruh Sağlığı Desteği — İngilizce & Türkçe | Safe Oasis",
+    "seoDescription": "Travma bilgili, kültüre duyarlı ruh sağlığı desteği ve psikososyal raporlama. NSW genelinde telesağlık, İngilizce ve Türkçe. Medicare ve fonlu yollar.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-14T05:06:44.129Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-14T05:06:44.129Z",
+    "updatedBy": "joshua"
   }
 ]
