@@ -502,18 +502,18 @@
   },
   {
     "id": "pg-32",
-    "path": "/about1",
+    "path": "/about",
     "type": "page",
     "title": "About Safe Oasis — Accredited Mental Health Social Worker (AASW)",
     "seoTitle": "About Safe Oasis — Accredited Mental Health Social Worker (AASW)",
     "seoDescription": "Trauma-informed, culturally responsive and strengths-based mental health support led by an AASW Accredited Mental Health Social Worker. English and Turkish, telehealth across NSW.",
     "layout": "mockup",
     "headerPartId": null,
-    "footerPartId": "footer-3",
-    "status": "draft",
+    "footerPartId": "footer-2",
+    "status": "published",
     "createdAt": "2026-09-14T05:06:44.129Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-14T05:06:44.129Z",
+    "updatedAt": "2026-09-14T05:09:00.087Z",
     "updatedBy": "joshua"
   },
   {
