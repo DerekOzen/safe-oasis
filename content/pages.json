@@ -518,18 +518,18 @@
   },
   {
     "id": "pg-33",
-    "path": "/turkce1",
+    "path": "/turkce",
     "type": "page",
     "title": "Türkçe Ruh Sağlığı Desteği — İngilizce & Türkçe | Safe Oasis",
     "seoTitle": "Türkçe Ruh Sağlığı Desteği — İngilizce & Türkçe | Safe Oasis",
     "seoDescription": "Travma bilgili, kültüre duyarlı ruh sağlığı desteği ve psikososyal raporlama. NSW genelinde telesağlık, İngilizce ve Türkçe. Medicare ve fonlu yollar.",
     "layout": "mockup",
     "headerPartId": null,
-    "footerPartId": "footer-3",
-    "status": "draft",
+    "footerPartId": "footer-2",
+    "status": "published",
     "createdAt": "2026-09-14T05:06:44.129Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-14T05:06:44.129Z",
+    "updatedAt": "2026-09-14T05:08:52.683Z",
     "updatedBy": "joshua"
   }
 ]
