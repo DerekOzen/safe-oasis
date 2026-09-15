@@ -1308,7 +1308,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"description\":\"Support that understands your circumstances, your culture and your language. Trauma-informed mental health support by telehealth across NSW and in person in parts of Western Sydney, in English and Turkish.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Safe Oasis\",\"url\":\"https://safeoasis.com.au/\"}]}",
       "hash": "d30f05795622cb6472bca4deada570d2e05b8141aec9b4a81cdde3e03dcf7de0",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1343,7 +1343,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:33.631Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-A02611F0",
@@ -1354,7 +1356,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/how-we-can-help/#webpage\",\"@type\":\"CollectionPage\",\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/how-we-can-help/#breadcrumb\"},\"description\":\"The areas we support: anxiety, depression, trauma and PTSD, grief, family and domestic violence, chronic pain and injury, psychosocial disability and life transitions.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/how-we-can-help/#itemlist\"},\"name\":\"How we can help\",\"url\":\"https://safeoasis.com.au/how-we-can-help/\"},{\"@id\":\"https://safeoasis.com.au/how-we-can-help/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2}]},{\"@id\":\"https://safeoasis.com.au/how-we-can-help/#itemlist\",\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"name\":\"Anxiety\",\"position\":1,\"url\":\"https://safeoasis.com.au/anxiety/\"},{\"@type\":\"ListItem\",\"name\":\"Depression\",\"position\":2,\"url\":\"https://safeoasis.com.au/depression/\"},{\"@type\":\"ListItem\",\"name\":\"Trauma & PTSD\",\"position\":3,\"url\":\"https://safeoasis.com.au/trauma-ptsd/\"},{\"@type\":\"ListItem\",\"name\":\"Grief & loss\",\"position\":4,\"url\":\"https://safeoasis.com.au/grief/\"},{\"@type\":\"ListItem\",\"name\":\"Family & domestic violence\",\"position\":5,\"url\":\"https://safeoasis.com.au/family-violence/\"},{\"@type\":\"ListItem\",\"name\":\"Chronic pain & injury\",\"position\":6,\"url\":\"https://safeoasis.com.au/chronic-pain/\"},{\"@type\":\"ListItem\",\"name\":\"Psychosocial disability\",\"position\":7,\"url\":\"https://safeoasis.com.au/psychosocial-disability/\"},{\"@type\":\"ListItem\",\"name\":\"Life transitions\",\"position\":8,\"url\":\"https://safeoasis.com.au/life-transitions/\"}]}]}",
       "hash": "46120bd1b8ec6038b9981ebcedf61e0384db2f71d0e9c9b060c665bf24af1ebf",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1389,7 +1391,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:34.022Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-14222548",
@@ -1400,7 +1404,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/anxiety/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/anxiety/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/anxiety/#breadcrumb\"},\"description\":\"Support for anxiety: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/anxiety/#service\"},\"name\":\"Support for anxiety\",\"url\":\"https://safeoasis.com.au/anxiety/\"},{\"@id\":\"https://safeoasis.com.au/anxiety/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/anxiety/\",\"name\":\"Anxiety\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/anxiety/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support for anxiety: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support for anxiety\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Anxiety\"}]}",
       "hash": "778b62e2e3d407c8012c9d8a3e369da049115b1752c7f4cde9cc83479414352f",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1435,7 +1439,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:34.356Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-86F7AB66",
@@ -1446,7 +1452,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/depression/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/depression/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/depression/#breadcrumb\"},\"description\":\"Support for depression: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/depression/#service\"},\"name\":\"Support for depression\",\"url\":\"https://safeoasis.com.au/depression/\"},{\"@id\":\"https://safeoasis.com.au/depression/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/depression/\",\"name\":\"Depression\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/depression/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support for depression: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support for depression\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Depression\"}]}",
       "hash": "769716c944080f47ec84d245d39be620c4e77983eb37263e6276487430c8aadf",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1481,7 +1487,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:34.677Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-9EFFDA97",
@@ -1492,7 +1500,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#breadcrumb\"},\"description\":\"Support after trauma: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#service\"},\"name\":\"Support after trauma\",\"url\":\"https://safeoasis.com.au/trauma-ptsd/\"},{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/trauma-ptsd/\",\"name\":\"Trauma & PTSD\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/trauma-ptsd/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support after trauma: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support after trauma\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Trauma & PTSD\"}]}",
       "hash": "0d73d58a360e1c4fd720e529245a1cdc2b31c68a71db31f8c6f198edae2b63ae",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1527,7 +1535,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:34.941Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-B78D2E00",
@@ -1538,7 +1548,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/grief/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/grief/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/grief/#breadcrumb\"},\"description\":\"Support through grief: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/grief/#service\"},\"name\":\"Support through grief\",\"url\":\"https://safeoasis.com.au/grief/\"},{\"@id\":\"https://safeoasis.com.au/grief/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/grief/\",\"name\":\"Grief & loss\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/grief/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support through grief: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support through grief\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Grief & traumatic loss\"}]}",
       "hash": "231360f5520b02740f443a11165407d7a233ec889fe332ea4739e521d4c9ca8d",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1573,7 +1583,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:35.182Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-0219DF91",
@@ -1584,7 +1596,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/family-violence/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/family-violence/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/family-violence/#breadcrumb\"},\"description\":\"Support after family violence: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/family-violence/#service\"},\"name\":\"Support after family violence\",\"url\":\"https://safeoasis.com.au/family-violence/\"},{\"@id\":\"https://safeoasis.com.au/family-violence/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/family-violence/\",\"name\":\"Family & domestic violence\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/family-violence/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support after family violence: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support after family violence\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Domestic & family violence\"}]}",
       "hash": "dfdbbc7f877f2b0dd76d4adffa4665227dcce77379afdbfc2cab864a8ea1a482",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1619,7 +1631,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:35.447Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-701F3BE9",
@@ -1630,7 +1644,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/chronic-pain/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/chronic-pain/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/chronic-pain/#breadcrumb\"},\"description\":\"Support with pain & injury: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/chronic-pain/#service\"},\"name\":\"Support with pain & injury\",\"url\":\"https://safeoasis.com.au/chronic-pain/\"},{\"@id\":\"https://safeoasis.com.au/chronic-pain/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/chronic-pain/\",\"name\":\"Chronic pain & injury\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/chronic-pain/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support with pain & injury: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support with pain & injury\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Chronic pain & injury adjustment\"}]}",
       "hash": "1bbfd44f1bf7e60e84b3d37be64281b1aabc2ffb9972aabb240dcb4c41346f22",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1665,7 +1679,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:35.759Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-1110C659",
@@ -1676,7 +1692,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#breadcrumb\"},\"description\":\"Support with psychosocial disability: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#service\"},\"name\":\"Support with psychosocial disability\",\"url\":\"https://safeoasis.com.au/psychosocial-disability/\"},{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/psychosocial-disability/\",\"name\":\"Psychosocial disability\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/psychosocial-disability/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support with psychosocial disability: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support with psychosocial disability\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Psychosocial disability\"}]}",
       "hash": "92fed5044fdc8ef5237b46106319b5b1a6dcd43a9faf88d1a259c8e98e0e6665",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1711,7 +1727,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:36.023Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-D4A33BF0",
@@ -1722,7 +1740,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/life-transitions/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/life-transitions/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/life-transitions/#breadcrumb\"},\"description\":\"Support through change: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/life-transitions/#service\"},\"name\":\"Support through change\",\"url\":\"https://safeoasis.com.au/life-transitions/\"},{\"@id\":\"https://safeoasis.com.au/life-transitions/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/how-we-can-help/\",\"name\":\"How we can help\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/life-transitions/\",\"name\":\"Life transitions\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/life-transitions/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Support through change: trauma-informed mental health support delivered by an AASW Accredited Mental Health Social Worker via secure telehealth across New South Wales, with mobile options in parts of Western Sydney, in English and Turkish. Medicare and other funding pathways accepted where eligible.\",\"name\":\"Support through change\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Life transitions\"}]}",
       "hash": "90c31d388bcfc2597df20c4eed6a3b9e3e1cf1ca555ea684193e57317ab8df0d",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1757,7 +1775,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:36.429Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-4C9AD399",
@@ -1768,7 +1788,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/assessments-reports/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/assessments-reports/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/assessments-reports/#breadcrumb\"},\"description\":\"Psychosocial and functional capacity assessments, NDIS supporting evidence, and insurer, return-to-work, legal and housing reports, prepared by an AASW Accredited Mental Health Social Worker.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/assessments-reports/#service\"},\"name\":\"Reports referrers can rely on\",\"url\":\"https://safeoasis.com.au/assessments-reports/\"},{\"@id\":\"https://safeoasis.com.au/assessments-reports/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/for-referrers/\",\"name\":\"For referrers\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/assessments-reports/\",\"name\":\"Assessments & reports\",\"position\":3}]},{\"@id\":\"https://safeoasis.com.au/assessments-reports/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Psychosocial and functional capacity assessments, NDIS supporting evidence, and insurer, return-to-work, legal and housing reports, prepared by an AASW Accredited Mental Health Social Worker.\",\"name\":\"Psychosocial assessments and reports\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Assessments & reports\"}]}",
       "hash": "5d9a6037b70e01e407c69b38500586ada1eaf995da55e656e42ce217c2d26df6",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1803,7 +1823,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:37.416Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-058DD4E6",
@@ -1814,7 +1836,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/funding-pathways/#webpage\",\"@type\":\"CollectionPage\",\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/funding-pathways/#breadcrumb\"},\"description\":\"Funding pathways for mental health support in NSW: Medicare, workers compensation (SIRA), CTP, Victims Support, Work and Development Orders, NDIS-related support and private sessions.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/funding-pathways/#itemlist\"},\"name\":\"How your support can be paid for\",\"url\":\"https://safeoasis.com.au/funding-pathways/\"},{\"@id\":\"https://safeoasis.com.au/funding-pathways/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2}]},{\"@id\":\"https://safeoasis.com.au/funding-pathways/#itemlist\",\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"name\":\"Medicare\",\"position\":1,\"url\":\"https://safeoasis.com.au/medicare/\"},{\"@type\":\"ListItem\",\"name\":\"Workers Compensation\",\"position\":2,\"url\":\"https://safeoasis.com.au/workers-comp/\"},{\"@type\":\"ListItem\",\"name\":\"CTP\",\"position\":3,\"url\":\"https://safeoasis.com.au/ctp/\"},{\"@type\":\"ListItem\",\"name\":\"Victims Support\",\"position\":4,\"url\":\"https://safeoasis.com.au/victims-support/\"},{\"@type\":\"ListItem\",\"name\":\"Work & Development Orders\",\"position\":5,\"url\":\"https://safeoasis.com.au/wdo/\"},{\"@type\":\"ListItem\",\"name\":\"NDIS\",\"position\":6,\"url\":\"https://safeoasis.com.au/ndis/\"},{\"@type\":\"ListItem\",\"name\":\"Private\",\"position\":7,\"url\":\"https://safeoasis.com.au/private/\"}]}]}",
       "hash": "d22597f488a9d7e8cbed82d129ad0ce886347958ba37ab2df435f36a3e6f75c5",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1849,7 +1871,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:37.714Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-5EA9320E",
@@ -1860,7 +1884,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/medicare/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/medicare/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Medicare Mental Health Treatment Plan\",\"url\":\"https://safeoasis.com.au/medicare/\"},{\"@id\":\"https://safeoasis.com.au/medicare/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/medicare/\",\"name\":\"Medicare\",\"position\":3}]}]}",
       "hash": "50708e258b7df4ea68782f69f5ddac7d868c31ced3008c81733907bec7943f9c",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1895,7 +1919,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:37.976Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-8CB3980B",
@@ -1906,7 +1932,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/workers-comp/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/workers-comp/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"NSW Workers Compensation (SIRA)\",\"url\":\"https://safeoasis.com.au/workers-comp/\"},{\"@id\":\"https://safeoasis.com.au/workers-comp/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/workers-comp/\",\"name\":\"Workers Compensation (SIRA)\",\"position\":3}]}]}",
       "hash": "b68471a7fb16684643d40e247318884a78d1139f57f433caa692aa185cac57b9",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1941,7 +1967,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:38.249Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-6E68C3A9",
@@ -1952,7 +1980,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/ctp/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/ctp/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"CTP motor accident claims\",\"url\":\"https://safeoasis.com.au/ctp/\"},{\"@id\":\"https://safeoasis.com.au/ctp/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/ctp/\",\"name\":\"CTP motor accident\",\"position\":3}]}]}",
       "hash": "77fe737b908ee4bae13d5812452016fffb294228f71804e2ec1248d493a0cb2e",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -1987,7 +2015,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:38.694Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-2D3DB543",
@@ -1998,7 +2028,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/victims-support/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/victims-support/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"NSW Victims Support Scheme\",\"url\":\"https://safeoasis.com.au/victims-support/\"},{\"@id\":\"https://safeoasis.com.au/victims-support/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/victims-support/\",\"name\":\"Victims Support\",\"position\":3}]}]}",
       "hash": "436711c58039ef6dfefd29a71271b373136b7c66ef1f53195d3e06b87a0cf108",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2033,7 +2063,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:38.992Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-BC0580F4",
@@ -2044,7 +2076,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/wdo/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/wdo/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Work & Development Orders (WDO)\",\"url\":\"https://safeoasis.com.au/wdo/\"},{\"@id\":\"https://safeoasis.com.au/wdo/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/wdo/\",\"name\":\"Work & Development Orders\",\"position\":3}]}]}",
       "hash": "b614a7d79c7e5ad1d504e446910ce6c35edfbdb7feb66b8349282bf4f9bd8919",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2079,7 +2111,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:39.245Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-0028C456",
@@ -2090,7 +2124,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/ndis/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/ndis/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"NDIS-related support\",\"url\":\"https://safeoasis.com.au/ndis/\"},{\"@id\":\"https://safeoasis.com.au/ndis/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/ndis/\",\"name\":\"NDIS-related\",\"position\":3}]}]}",
       "hash": "7dda6bce078f52ccd05a23fccbc903ce44664b63be5723624845cb341f77edfb",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2125,7 +2159,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:39.524Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-C6D7DF53",
@@ -2136,7 +2172,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/private/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/private/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Private sessions\",\"url\":\"https://safeoasis.com.au/private/\"},{\"@id\":\"https://safeoasis.com.au/private/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/funding-pathways/\",\"name\":\"Funding & referral\",\"position\":2},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/private/\",\"name\":\"Private sessions\",\"position\":3}]}]}",
       "hash": "dd5875fd49534666d70365ea4edc10844eeb9b862cf4f02389f53435f458c28a",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2171,7 +2207,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:39.822Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-1F90E0F9",
@@ -2182,7 +2220,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#service\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#breadcrumb\"},\"description\":\"Most support is delivered by secure telehealth across New South Wales, with mobile or in-person options in selected parts of Western Sydney where clinically appropriate and funded.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#service\"},\"name\":\"Support wherever you are in NSW\",\"url\":\"https://safeoasis.com.au/telehealth-areas/\"},{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/telehealth-areas/\",\"name\":\"Telehealth & areas served\",\"position\":2}]},{\"@id\":\"https://safeoasis.com.au/telehealth-areas/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Most support is delivered by secure telehealth across New South Wales, with mobile or in-person options in selected parts of Western Sydney where clinically appropriate and funded.\",\"name\":\"Telehealth mental health support across NSW\",\"provider\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"serviceType\":\"Telehealth mental health support\"}]}",
       "hash": "e3aa1affdc8acb39dd5738fbd233e5d57b1591418ef5806f893b90e9ad2a235c",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2217,7 +2255,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:40.070Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-A4AFC964",
@@ -2228,7 +2268,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/about/#webpage\",\"@type\":\"AboutPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/about/#breadcrumb\"},\"description\":\"Safe Oasis is led by Zeynep Korkmaz, an AASW Accredited Mental Health Social Worker, offering trauma-informed, culturally responsive support in English and Turkish.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://safeoasis.com.au/about/#person\"},\"name\":\"You choose a person, not a brand\",\"url\":\"https://safeoasis.com.au/about/\"},{\"@id\":\"https://safeoasis.com.au/about/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/about/\",\"name\":\"About\",\"position\":2}]},{\"@id\":\"https://safeoasis.com.au/about/#person\",\"@type\":\"Person\",\"jobTitle\":\"Accredited Mental Health Social Worker\",\"name\":\"Zeynep Korkmaz\",\"worksFor\":{\"@id\":\"https://safeoasis.com.au/#organization\"}}]}",
       "hash": "fe15e6105c98bc4c7315cc99031b598b9c7955b4e4443f8e2511cefc33cf837f",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2263,7 +2303,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:40.408Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-EC4AC17D",
@@ -2274,7 +2316,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/contact/#webpage\",\"@type\":\"ContactPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/contact/#breadcrumb\"},\"description\":\"Send a confidential enquiry or request a call back. Telehealth across NSW and mobile options in parts of Western Sydney.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Reach out when you're ready\",\"url\":\"https://safeoasis.com.au/contact/\"},{\"@id\":\"https://safeoasis.com.au/contact/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/contact/\",\"name\":\"Contact & book\",\"position\":2}]}]}",
       "hash": "e4149ea217e687ae97df65c760dca1d57dae05f974c5d738c3cd4107b94f3f3a",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2309,7 +2351,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:40.696Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-09D63B51",
@@ -2320,7 +2364,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/for-referrers/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/for-referrers/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Refer with confidence\",\"url\":\"https://safeoasis.com.au/for-referrers/\"},{\"@id\":\"https://safeoasis.com.au/for-referrers/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/for-referrers/\",\"name\":\"For referrers\",\"position\":2}]}]}",
       "hash": "a49b3581e6aca9fef1a64bc1802b2ecfb9e7282a9bfa7dcb6fea49028e0665a8",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2355,7 +2399,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:40.959Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-00E974E0",
@@ -2366,7 +2412,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/fees/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/fees/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Clear fees, no surprises\",\"url\":\"https://safeoasis.com.au/fees/\"},{\"@id\":\"https://safeoasis.com.au/fees/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/fees/\",\"name\":\"Fees & rebates\",\"position\":2}]}]}",
       "hash": "05b6c137b88a81c5c60b9b94e09b6a10dd9764df1e7396042120a2d5ba3e32e9",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2401,7 +2447,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:41.276Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-3E3596A2",
@@ -2412,7 +2460,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/faqs/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/faqs/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Questions, answered\",\"url\":\"https://safeoasis.com.au/faqs/\"},{\"@id\":\"https://safeoasis.com.au/faqs/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/faqs/\",\"name\":\"FAQs\",\"position\":2}]}]}",
       "hash": "b2ad9ba84114dd88b4d10aafcb6c53646178b115d764d7f8daa6340c7cd8f13b",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2447,7 +2495,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:41.617Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-C5687560",
@@ -2458,7 +2508,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/crisis-support/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/crisis-support/#breadcrumb\"},\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"If you need help right now\",\"url\":\"https://safeoasis.com.au/crisis-support/\"},{\"@id\":\"https://safeoasis.com.au/crisis-support/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/crisis-support/\",\"name\":\"Crisis support\",\"position\":2}]}]}",
       "hash": "dc4513c3aee7e88334311dd7165c7702eb2f47c9385a30599df6db39be291da8",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2493,7 +2543,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:41.923Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     },
     {
       "recordId": "SCHEMA-C3319D79",
@@ -2504,7 +2556,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://safeoasis.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Safe Oasis\",\"publisher\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/#organization\",\"@type\":\"Organization\",\"areaServed\":[{\"@type\":\"State\",\"name\":\"New South Wales\"},{\"@type\":\"Place\",\"name\":\"Western Sydney\"}],\"description\":\"Trauma-informed mental health support and psychosocial reporting from an AASW Accredited Mental Health Social Worker, by secure telehealth across New South Wales and mobile in parts of Western Sydney, in English and Turkish.\",\"knowsLanguage\":[\"English\",\"Turkish\"],\"name\":\"Safe Oasis\",\"telephone\":\"+61 406 119 010\",\"url\":\"https://safeoasis.com.au/\"},{\"@id\":\"https://safeoasis.com.au/turkce/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://safeoasis.com.au/#organization\"},\"breadcrumb\":{\"@id\":\"https://safeoasis.com.au/turkce/#breadcrumb\"},\"inLanguage\":\"tr\",\"isPartOf\":{\"@id\":\"https://safeoasis.com.au/#website\"},\"name\":\"Durumunuzu, kültürünüzü ve dilinizi anlayan destek.\",\"url\":\"https://safeoasis.com.au/turkce/\"},{\"@id\":\"https://safeoasis.com.au/turkce/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://safeoasis.com.au/turkce/\",\"name\":\"Türkçe\",\"position\":2}]}]}",
       "hash": "46d9d15fa59ed09c21aca6d1b9f038bc3fdb2e9f93255d7369accd41d2196507",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "FAIL",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -2539,7 +2591,9 @@
         "issue_reason": "Custom graph is valid and self-contained; suppression of existing theme/SEO-plugin schema on this URL is requested but not yet verified in WordPress. Deployment-side check only, not a schema defect.",
         "source_references": "safeoasis.com.au live page; safeoasis.com.au/about/ (practitioner + credentials)",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-15T04:42:42.272Z",
+      "verifyInfo": "0 total · 0 ours · 0 stray"
     }
   ]
 }
