@@ -1,6 +1,148 @@
 {
   "batches": [
     {
+      "batchId": "csg-mu29ospx-htgz",
+      "at": "2026-09-15T06:04:46.053Z",
+      "count": 27,
+      "changes": [
+        {
+          "path": "/",
+          "oldRecordId": "SCHEMA-442AE814",
+          "newRecordId": "SCHEMA-442AE814"
+        },
+        {
+          "path": "/how-we-can-help",
+          "oldRecordId": "SCHEMA-A02611F0",
+          "newRecordId": "SCHEMA-A02611F0"
+        },
+        {
+          "path": "/anxiety",
+          "oldRecordId": "SCHEMA-14222548",
+          "newRecordId": "SCHEMA-14222548"
+        },
+        {
+          "path": "/depression",
+          "oldRecordId": "SCHEMA-86F7AB66",
+          "newRecordId": "SCHEMA-86F7AB66"
+        },
+        {
+          "path": "/trauma-ptsd",
+          "oldRecordId": "SCHEMA-9EFFDA97",
+          "newRecordId": "SCHEMA-9EFFDA97"
+        },
+        {
+          "path": "/grief",
+          "oldRecordId": "SCHEMA-B78D2E00",
+          "newRecordId": "SCHEMA-B78D2E00"
+        },
+        {
+          "path": "/family-violence",
+          "oldRecordId": "SCHEMA-0219DF91",
+          "newRecordId": "SCHEMA-0219DF91"
+        },
+        {
+          "path": "/chronic-pain",
+          "oldRecordId": "SCHEMA-701F3BE9",
+          "newRecordId": "SCHEMA-701F3BE9"
+        },
+        {
+          "path": "/psychosocial-disability",
+          "oldRecordId": "SCHEMA-1110C659",
+          "newRecordId": "SCHEMA-1110C659"
+        },
+        {
+          "path": "/life-transitions",
+          "oldRecordId": "SCHEMA-D4A33BF0",
+          "newRecordId": "SCHEMA-D4A33BF0"
+        },
+        {
+          "path": "/assessments-reports",
+          "oldRecordId": "SCHEMA-4C9AD399",
+          "newRecordId": "SCHEMA-4C9AD399"
+        },
+        {
+          "path": "/funding-pathways",
+          "oldRecordId": "SCHEMA-058DD4E6",
+          "newRecordId": "SCHEMA-058DD4E6"
+        },
+        {
+          "path": "/medicare",
+          "oldRecordId": "SCHEMA-5EA9320E",
+          "newRecordId": "SCHEMA-5EA9320E"
+        },
+        {
+          "path": "/workers-comp",
+          "oldRecordId": "SCHEMA-8CB3980B",
+          "newRecordId": "SCHEMA-8CB3980B"
+        },
+        {
+          "path": "/ctp",
+          "oldRecordId": "SCHEMA-6E68C3A9",
+          "newRecordId": "SCHEMA-6E68C3A9"
+        },
+        {
+          "path": "/victims-support",
+          "oldRecordId": "SCHEMA-2D3DB543",
+          "newRecordId": "SCHEMA-2D3DB543"
+        },
+        {
+          "path": "/wdo",
+          "oldRecordId": "SCHEMA-BC0580F4",
+          "newRecordId": "SCHEMA-BC0580F4"
+        },
+        {
+          "path": "/ndis",
+          "oldRecordId": "SCHEMA-0028C456",
+          "newRecordId": "SCHEMA-0028C456"
+        },
+        {
+          "path": "/private",
+          "oldRecordId": "SCHEMA-C6D7DF53",
+          "newRecordId": "SCHEMA-C6D7DF53"
+        },
+        {
+          "path": "/telehealth-areas",
+          "oldRecordId": "SCHEMA-1F90E0F9",
+          "newRecordId": "SCHEMA-1F90E0F9"
+        },
+        {
+          "path": "/about",
+          "oldRecordId": "SCHEMA-A4AFC964",
+          "newRecordId": "SCHEMA-A4AFC964"
+        },
+        {
+          "path": "/contact",
+          "oldRecordId": "SCHEMA-EC4AC17D",
+          "newRecordId": "SCHEMA-EC4AC17D"
+        },
+        {
+          "path": "/for-referrers",
+          "oldRecordId": "SCHEMA-09D63B51",
+          "newRecordId": "SCHEMA-09D63B51"
+        },
+        {
+          "path": "/fees",
+          "oldRecordId": "SCHEMA-00E974E0",
+          "newRecordId": "SCHEMA-00E974E0"
+        },
+        {
+          "path": "/faqs",
+          "oldRecordId": "SCHEMA-3E3596A2",
+          "newRecordId": "SCHEMA-3E3596A2"
+        },
+        {
+          "path": "/crisis-support",
+          "oldRecordId": "SCHEMA-C5687560",
+          "newRecordId": "SCHEMA-C5687560"
+        },
+        {
+          "path": "/turkce",
+          "oldRecordId": "SCHEMA-C3319D79",
+          "newRecordId": "SCHEMA-C3319D79"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mu26oxd7-ce4k",
       "at": "2026-09-15T04:40:53.227Z",
       "count": 27,
