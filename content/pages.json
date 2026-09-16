@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Safe Oasis — Mental Health Support in English & Turkish · Telehealth NSW",
@@ -10,11 +10,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-14T04:18:24.872Z",
+    "updatedAt": "2026-09-16T04:56:01.815Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-03T21:36:48.304Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -585,7 +585,7 @@
   },
   {
     "id": "pg-37",
-    "path": "/home1",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Safe Oasis — Mental Health Support in English & Turkish · Telehealth NSW",
@@ -593,10 +593,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-09-16T04:55:34.737Z",
+    "status": "published",
+    "updatedAt": "2026-09-16T04:56:01.815Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-16T04:55:34.737Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": true
   }
 ]
