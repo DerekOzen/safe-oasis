@@ -543,11 +543,12 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-2",
-    "status": "published",
-    "updatedAt": "2026-09-16T04:26:10.184Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-16T04:43:30.517Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-16T03:47:50.933Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-35",
