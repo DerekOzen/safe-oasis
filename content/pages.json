@@ -383,8 +383,9 @@
     "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-14T03:30:45.784Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-21T01:32:30.712Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-25",
