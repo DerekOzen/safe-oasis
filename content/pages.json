@@ -597,10 +597,12 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-16T04:56:16.961Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-30T23:07:35.363Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-16T04:55:34.737Z",
     "createdBy": "joshua",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/support-that-understands-6e1c69f6.jpg",
+    "featuredImageAlt": "Calm mental health support setting with journal, wellbeing books, coffee and Sydney Harbour view"
   }
 ]
