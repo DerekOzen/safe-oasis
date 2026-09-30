@@ -564,10 +564,12 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-16T04:43:40.156Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-30T23:07:49.273Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-16T04:43:01.822Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "featuredImage": "/uploads/zeynep-korkmaz-about-7263db2d.jpg",
+    "featuredImageAlt": "Photograph of Zeynep Korkmaz, Accredited Mental Health Social Worker"
   },
   {
     "id": "pg-36",
