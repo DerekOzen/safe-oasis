@@ -421,9 +421,11 @@
     "status": "published",
     "createdAt": "2026-09-03T21:37:32.450Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-21T01:32:30.712Z",
-    "updatedBy": "joshua",
-    "noindex": true
+    "updatedAt": "2026-10-05T01:42:31.524Z",
+    "updatedBy": "gabriel",
+    "noindex": true,
+    "featuredImage": "/uploads/support-that-understands-6e1c69f6.jpg",
+    "featuredImageAlt": "Thank you — we’ve got your enquiry"
   },
   {
     "id": "pg-25",
