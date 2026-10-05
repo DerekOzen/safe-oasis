@@ -507,10 +507,12 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-09-14T03:30:45.784Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-10-05T01:04:38.112Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-09-14T03:09:28.131Z",
-    "createdBy": "joshua"
+    "createdBy": "joshua",
+    "featuredImage": "/uploads/featured-privacy-policy-jrruj.jpg",
+    "featuredImageAlt": "Privacy policy"
   },
   {
     "id": "pg-31",
